@@ -116,9 +116,9 @@ The model is evaluated using metrics such as:
 
 Based on the evaluation, the **XGBoost** model demonstrated the best performance, achieving an accuracy of over 80%. Random forest and decision tree also performed well.
 
-* **XGBoost:** Accuracy > 87%
-* **Random Forest:** Accuracy > 81%
-* **Decision Tree:** Accuracy > 83%
+* **XGBoost:** Accuracy - 87%
+* **Random Forest:** Accuracy - 81%
+* **Decision Tree:** Accuracy - 83%
 
 ## Contributing
 
